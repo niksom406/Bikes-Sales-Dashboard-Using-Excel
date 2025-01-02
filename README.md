@@ -4,7 +4,7 @@
 This project demonstrates the application of data analysis techniques to uncover insights from a bike sales dataset using **Microsoft Excel**. The project involves **data cleaning**, **data visualization**, and the creation of an **interactive dashboard** to provide actionable insights into customer demographics, purchasing behavior, and commute patterns.
 
 ## Dashboard Preview
-![Dashboard Preview] (Dashboard.png)
+![Dashboard Preview] (Dashboard.PNG)
 
 ## Dashboard Elements and Insights
 ### 1. **Average Income Per Purchase (Bar Chart)**
